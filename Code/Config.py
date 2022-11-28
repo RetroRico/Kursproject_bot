@@ -1,12 +1,12 @@
 # Тут знаходяться значення, які можна змінювати для іншого бота
 import discord
 
-TOKEN = 'MTAzOTU1OTc0MzI1OTI5OTg3MA.GW58h1.Vu2p8PYxzROz3DS00kzLTBrfr7tIa_1CROHMqc'  # Спеціальний ключ для запуску бота в сервері
+TOKEN = 'TOKENBOT'  # Спеціальний ключ для запуску бота в сервері
 Prefix = '!'  # Префікс команд
 Post_ID = 1041072950184530070  # IP повідомлення, де потрібно вставити "реакцію" (подія отримання ролей)
 FFMPEG_OPTIONS = {'options': '-vn'}  # Налагодження для відтворення музики (звуків) (команда play)
 YDL_OPTIONS = {'format': 'bestaudio'}  # Налагодження для встановлення музики (звуків) (команда play)
-API_key = "5b87e18761461ba64128d0fd42c9aee0"  # Спеціальний ключ користувача OpenWeather (команда weather)
+API_key = "WEATHERAPIKEY"  # Спеціальний ключ користувача OpenWeather (команда weather)
 weather_url = "http://api.openweathermap.org/data/2.5/weather?"  # Посилання OpenWeather для створення посилання міста (команда weather)
 help = """ 
     ```
